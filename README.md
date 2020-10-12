@@ -2,8 +2,8 @@
 
 - 💪 I’m having fun while learning how to code 
 - 🥅 My GOAL is to becomme a Front-end Developer at a professional level.
-- 👯 I’m open to collaborate with other content creators
-- ⚡ Things I love to do in my spare time: I love to spend time arround with my dogs, but you could also find me trying to play the guitar, meditating, going to boxing or capoeira lessons.  
+- ⚡ I’m open to collaborate with other content creators
+- 🎧 Things I love to do in my spare time: I love to spend time arround with my dogs, but you could also find me trying to play the guitar, meditating, going to boxing or capoeira lessons.  
 
 
 <br />
@@ -35,12 +35,11 @@
 [<img align="left" alt="ingridinara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ingridinara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ingridinara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ingridinara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spofity]
+
 
 [linkedin]: https://www.linkedin.com/in/ingridinara/
 [twitter]: https://twitter.com/_IngridInara
 [instagram]: https://www.instagram.com/_ingridinara
-[spotify]: https://open.spotify.com/playlist/7dJo5YUKWaRaUhiLl3BINc?si=L73dopaHTMy5_OhYtyi7Yw
 <br />
 <br />
  
