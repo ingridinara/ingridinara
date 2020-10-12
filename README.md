@@ -1,10 +1,10 @@
 
-
+<br />
 ### Hi there. I'm Ingrid Inara  👋 
 
 
 - 🤣 I’m having fun while learning how to code 💪
-- 🥅 My GOAL it to becomme a Front-end Developer into a professional level.
+- 🥅 My GOAL is to becomme a Front-end Developer into a professional level.
 - 👯 I’m open to collaborate with other content creators
 - ⚡ Things I love to do in my spare time: I love to spend time arround with my dogs, but you could also find me trying to play the guitar, meditating, going to boxing or capoeira lessons.  
 
@@ -29,6 +29,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+<br />
 <br />
 <br />
 
