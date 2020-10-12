@@ -1,6 +1,6 @@
-### Hi there 👋. I'm Ingrid Inara  
+### Hi there. I'm Ingrid Inara  
 
-- 🤣 I’m having fun while learning how to code 💪
+- 💪 I’m having fun while learning how to code 
 - 🥅 My GOAL is to becomme a Front-end Developer at a professional level.
 - 👯 I’m open to collaborate with other content creators
 - ⚡ Things I love to do in my spare time: I love to spend time arround with my dogs, but you could also find me trying to play the guitar, meditating, going to boxing or capoeira lessons.  
