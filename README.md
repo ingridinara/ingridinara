@@ -10,7 +10,6 @@
 <br />
  
 
-
 ### To start with, I´m in my path to learn the following Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,8 +35,13 @@
 [<img align="left" alt="ingridinara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ingridinara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spofity]
 
 [linkedin]: https://www.linkedin.com/in/ingridinara/
 [twitter]: https://twitter.com/_IngridInara
 [instagram]: https://www.instagram.com/_ingridinara
+[spotify]: https://open.spotify.com/user/1193801903
+<br />
+<br />
+### Spotify Playing 🎧
+ 
