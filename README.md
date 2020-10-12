@@ -34,14 +34,14 @@
 ### You could also contact me through my Social Netwok:
 [<img align="left" alt="ingridinara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ingridinara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spofity]
+[<img align="left" alt="ingridinara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ingridinara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spofity]
 
 [linkedin]: https://www.linkedin.com/in/ingridinara/
 [twitter]: https://twitter.com/_IngridInara
 [instagram]: https://www.instagram.com/_ingridinara
-[spotify]: https://open.spotify.com/user/1193801903
+[spotify]: https://open.spotify.com/playlist/7dJo5YUKWaRaUhiLl3BINc?si=L73dopaHTMy5_OhYtyi7Yw
 <br />
 <br />
-### Spotify Playing 🎧
+ 
  
